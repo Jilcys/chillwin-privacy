@@ -18,7 +18,7 @@ and no third-party SDKs. It requests no Android permissions.
 ## Information we collect
 
 None. We do not collect, store, or transmit any personal or device
-information. There is no server to send it to â€” the app never connects to
+information. There is no server to send it to — the app never connects to
 the internet.
 
 ## Information stored on your device
@@ -32,17 +32,17 @@ storage area on your device:
 - Your settings (audio volume, battle speed, vibration, reduce motion)
 
 This file never leaves your device unless you choose to share it. It contains
-no personal information â€” no name, email, contacts, location, advertising
+no personal information — no name, email, contacts, location, advertising
 identifier, or device identifier. Android's automatic cloud backup is
 disabled for this app, so the file is not copied to any Google service.
 
 Uninstalling Chillwin deletes this file and all progress with it. You can
-also erase it at any time from **Settings â†’ Reset Progress** inside the game.
+also erase it at any time from **Settings → Reset Progress** inside the game.
 
 ## Transfer codes
 
-Chillwin can show you a "transfer code" â€” a block of text representing your
-own game progress â€” so you can move a save between your own devices. The app
+Chillwin can show you a "transfer code" — a block of text representing your
+own game progress — so you can move a save between your own devices. The app
 only displays this text. It does not upload or transmit it. If you copy a
 transfer code somewhere (a message to yourself, a note), you are sharing it
 yourself, and only the game progress described above is inside it.
