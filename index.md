@@ -72,4 +72,4 @@ described here.
 
 ## Contact
 
-Questions about this policy: **placeholder@placeholderchillwin.com**
+Questions about this policy: **info.chillwin@gmail.com**
