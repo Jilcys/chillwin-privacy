@@ -4,7 +4,7 @@ title: Chillwin Privacy Policy
 
 # Privacy Policy for Chillwin
 
-**Last updated: 29 July 2026**
+**Last updated: 6 November 2026**
 
 Chillwin is a single-player, offline game developed by Jilcys. This policy
 explains what the app does and does not do with your information.
@@ -13,7 +13,11 @@ explains what the app does and does not do with your information.
 
 **Chillwin does not collect, transmit, or share any personal data.** The game
 has no network functionality, no user accounts, no analytics, no advertising,
-and no third-party SDKs. It requests no Android permissions.
+and no third-party SDKs. It requests no Android permissions that touch your
+data or your device. The only permission in the Play build,
+`com.android.vending.CHECK_LICENSE`, is added by the game engine's Android
+build tools; it lets Google Play confirm the copy is licensed and reads nothing
+from your device.
 
 ## Information we collect
 
@@ -63,6 +67,11 @@ information about the download and your device as part of operating the
 store. That processing is governed by
 [Google's Privacy Policy](https://policies.google.com/privacy), not this one,
 and happens outside the app.
+
+Chillwin is sold through Google Play for a one-time price. Google processes
+that payment; the developer never receives your name, card, or billing
+details, only aggregated sales figures. The game itself contains no in-app
+purchases and no advertising.
 
 ## Changes to this policy
 
